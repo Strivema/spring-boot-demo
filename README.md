@@ -3,6 +3,12 @@
 #### 项目介绍
 Spring Boot相关实现案例。
 
+
+#### 博客教程
+
+[Spring Boot + Mybatis 实现动态数据源](https://www.cnblogs.com/xifengxiaoma/p/9888240.html)
+
+
 #### 软件架构
 软件架构说明
 
