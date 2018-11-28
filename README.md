@@ -8,6 +8,8 @@ Spring Boot相关实现案例。
 
 [Spring Boot + Mybatis 实现动态数据源](https://www.cnblogs.com/xifengxiaoma/p/9888240.html)
 
+[Spring Security 案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10020960.html)
+
 
 #### 软件架构
 软件架构说明
