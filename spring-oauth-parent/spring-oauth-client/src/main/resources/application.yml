@@ -2,7 +2,7 @@ auth-server: http://localhost:8881/auth
 server:
   port: 8882
   servlet:
-    context-path: /ui
+    context-path: /
   session:
     cookie:
       name: SESSION1

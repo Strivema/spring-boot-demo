@@ -28,8 +28,8 @@ public class OAuthServerConfig extends AuthorizationServerConfigurerAdapter {
             .authorizedGrantTypes("authorization_code")	// 授权类型，这里选择授权码
             .scopes("user_info") // 授权范围
             .autoApprove(true) // 自动认证
-            .redirectUris("http://localhost:8882/ui/login","http://localhost:8883/login")	// 认证成功重定向URL
-            .accessTokenValiditySeconds(100); // 超时时间，10s 
+            .redirectUris("http://localhost:8882/login","http://localhost:8883/login")	// 认证成功重定向URL
+            .accessTokenValiditySeconds(10); // 超时时间，10s 
     }
 
 }
