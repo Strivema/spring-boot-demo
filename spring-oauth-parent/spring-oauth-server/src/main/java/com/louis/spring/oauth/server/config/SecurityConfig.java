@@ -21,7 +21,9 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 	        .authorizeRequests()
 	        .anyRequest().authenticated()
 	        .and()
-	        .formLogin().permitAll();
+	        .formLogin().loginPage("/login").permitAll()	// 自定义登录页面，这里配置了 loginPage, 就会通过 LoginController 的 login 接口加载登录页面
+	        .and().csrf().disable();
+        
     }
 
     @Override
