@@ -36,6 +36,10 @@
 	        password: '123'
 		},
 		methods : {
+			reset: function() {
+				this.username = 'admin'
+				this.password = '123'
+			}
 		}
 	})
 	
