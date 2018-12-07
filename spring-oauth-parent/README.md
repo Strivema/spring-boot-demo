@@ -1,2 +1,3 @@
-### Relevant Articles:
-- [Simple Single Sign On with Spring Security OAuth2](http://www.baeldung.com/sso-spring-security-oauth2)
+### 博客教程
+
+- https://www.cnblogs.com/xifengxiaoma/p/10043173.html
