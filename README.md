@@ -10,6 +10,8 @@ Spring Boot相关实现案例。
 
 [Spring Security 案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10020960.html)
 
+[Spring Security Oauth2 单点登录案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10043173.html)
+
 
 #### 软件架构
 软件架构说明
