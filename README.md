@@ -1,14 +1,14 @@
 # spring-boot-demo
 
 #### 项目介绍
-Spring Boot相关实现案例。
+pring Boot相关系列教程和案例。
 
 
 #### 博客教程
 
 [Spring Boot：快速入门教程](https://www.cnblogs.com/xifengxiaoma/p/11019240.html)
 
-[Spring Boot：整合Swagger在线文档](https://www.cnblogs.com/xifengxiaoma/p/11022146.html)
+[Spring Boot：整合Swagger文档](https://www.cnblogs.com/xifengxiaoma/p/11022146.html)
 
 [Spring Boot：整合MyBatis框架](https://www.cnblogs.com/xifengxiaoma/p/11024402.html)
 
