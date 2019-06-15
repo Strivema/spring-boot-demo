@@ -12,6 +12,8 @@ pring Boot相关系列教程和案例。
 
 [Spring Boot：整合MyBatis框架](https://www.cnblogs.com/xifengxiaoma/p/11024402.html)
 
+[Spring Boot：实现MyBatis分页](https://www.cnblogs.com/xifengxiaoma/p/11027551.html)
+
 [Spring Boot + Mybatis 实现动态数据源](https://www.cnblogs.com/xifengxiaoma/p/9888240.html)
 
 [Spring Security 案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10020960.html)
