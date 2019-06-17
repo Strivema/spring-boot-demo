@@ -18,6 +18,8 @@ pring Boot相关系列教程和案例。
 
 [Spring Boot：实现MyBatis动态数据源](https://www.cnblogs.com/xifengxiaoma/p/11040336.html)
 
+[Spring Boot：实现MyBatis动态创建表](https://www.cnblogs.com/xifengxiaoma/p/11041509.html)
+
 [Spring Security 案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10020960.html)
 
 [Spring Security Oauth2 单点登录案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10043173.html)
