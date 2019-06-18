@@ -20,6 +20,10 @@
 
 [Spring Boot：实现MyBatis动态创建表](https://www.cnblogs.com/xifengxiaoma/p/11041509.html)
 
+[Spring Boot：整合JdbcTemplate](https://www.cnblogs.com/xifengxiaoma/p/11046099.html)
+
+[Spring Boot：整合Spring Data JPA](https://www.cnblogs.com/xifengxiaoma/p/11047049.html)
+
 [Spring Security 案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10020960.html)
 
 [Spring Security Oauth2 单点登录案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10043173.html)
