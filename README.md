@@ -34,17 +34,27 @@
 #### 软件架构
 
 ##### 开发环境
+
 IDE : eclipse 4.x
+
 JDK : JDK1.8.x
+
 Maven : Maven 3.5.x
+
 MySQL: MySQL 8.0.x
 
 ##### 技术选型
+
 核心框架：Spring Boot 2.x
+
 安全框架：Spring Security 5.x
+
 视图框架：Spring MVC 5.x
+
 持久层框架：MyBatis 3.x
+
 数据库连接池：Druid 1.x
+
 日志管理：SLF4J、Log4j
 
 #### 参与贡献
