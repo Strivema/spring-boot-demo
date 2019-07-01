@@ -28,6 +28,10 @@
 
 [Spring Boot：整合Spring Security](https://www.cnblogs.com/xifengxiaoma/p/11106220.html)
 
+[Spring Boot：使用Memcached缓存](https://www.cnblogs.com/xifengxiaoma/p/11115130.html)
+
+[Spring Boot：使用Redis存储技术](https://www.cnblogs.com/xifengxiaoma/p/11116021.html)
+
 [Spring Security Oauth2 单点登录案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10043173.html)
 
 
