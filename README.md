@@ -32,6 +32,8 @@
 
 [Spring Boot：使用Redis存储技术](https://www.cnblogs.com/xifengxiaoma/p/11116021.html)
 
+[Spring Boot：使用Rabbit MQ消息队列](https://www.cnblogs.com/xifengxiaoma/p/11121355.html)
+
 [Spring Security Oauth2 单点登录案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10043173.html)
 
 
