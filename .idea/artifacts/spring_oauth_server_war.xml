@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-oauth-server:war">
+    <output-path>$PROJECT_DIR$/Spring Security Oauth2 单点登录案例实现和执行流程剖析/spring-oauth-parent/spring-oauth-server/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring-oauth-server</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring-oauth-server-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring-oauth-server:war exploded" />
+    </root>
+  </artifact>
+</component>

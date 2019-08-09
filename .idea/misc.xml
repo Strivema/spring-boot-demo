@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Spring Security Oauth2 单点登录案例实现和执行流程剖析/spring-oauth-parent/spring-oauth-client" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring Security Oauth2 单点登录案例实现和执行流程剖析/spring-oauth-parent/spring-oauth-client2" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring Security Oauth2 单点登录案例实现和执行流程剖析/spring-oauth-parent/spring-oauth-server" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Spring Boot：整合Spring Security/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot：整合Swagger文档/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot：使用Memcached缓存/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot：使用Rabbit MQ消息队列/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot：使用Redis存储技术/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot：实现MyBatis分页/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Security 案例实现和执行流程剖析/springboot-spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Security Oauth2 单点登录案例实现和执行流程剖析/spring-oauth-parent/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
