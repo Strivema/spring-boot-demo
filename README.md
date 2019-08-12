@@ -40,7 +40,7 @@
 
 ##### 开发环境
 
-IDE : eclipse 4.x
+IDE : idea 2019.x
 
 JDK : JDK1.8.x
 
