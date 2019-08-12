@@ -3,7 +3,9 @@ package com.louis.springboot.demo.dao;
 import java.util.List;
 
 import com.louis.springboot.demo.model.SysUser;
+import org.springframework.stereotype.Component;
 
+@Component
 public interface SysUserMapper {
     int deleteByPrimaryKey(Long id);
 

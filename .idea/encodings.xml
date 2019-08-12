@@ -5,8 +5,15 @@
     <file url="file://$PROJECT_DIR$/Spring Boot：使用Rabbit MQ消息队列/demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring Boot：使用Redis存储技术/demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring Boot：实现MyBatis分页/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring Boot：实现MyBatis动态创建表/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring Boot：实现MyBatis动态数据源/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring Boot：整合JdbcTemplate/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring Boot：整合MyBatis框架/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring Boot：整合Shiro权限框架/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring Boot：整合Spring Data JPA/demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring Boot：整合Spring Security/demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring Boot：整合Swagger文档/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring Boot：集成Druid数据源/demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring Security Oauth2 单点登录案例实现和执行流程剖析/spring-oauth-parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring Security Oauth2 单点登录案例实现和执行流程剖析/spring-oauth-parent/spring-oauth-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring Security Oauth2 单点登录案例实现和执行流程剖析/spring-oauth-parent/spring-oauth-client2" charset="UTF-8" />

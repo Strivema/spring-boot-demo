@@ -19,6 +19,13 @@
         <option value="$PROJECT_DIR$/Spring Boot：实现MyBatis分页/demo/pom.xml" />
         <option value="$PROJECT_DIR$/Spring Security 案例实现和执行流程剖析/springboot-spring-security/pom.xml" />
         <option value="$PROJECT_DIR$/Spring Security Oauth2 单点登录案例实现和执行流程剖析/spring-oauth-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot：集成Druid数据源/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot：整合Spring Data JPA/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot：整合Shiro权限框架/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot：整合MyBatis框架/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot：整合JdbcTemplate/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot：实现MyBatis动态数据源/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot：实现MyBatis动态创建表/demo/pom.xml" />
       </list>
     </option>
   </component>
